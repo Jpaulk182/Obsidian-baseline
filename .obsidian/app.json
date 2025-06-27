@@ -1,0 +1,10 @@
+{
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Resources/Notes",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true
+}

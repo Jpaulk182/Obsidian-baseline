@@ -1,0 +1,6 @@
+{
+  "folder": "Resources/Notes/4 - Calendar",
+  "format": "dddd, MMM DDt\\h",
+  "template": "Resources/Templates/Daily Note",
+  "autorun": false
+}

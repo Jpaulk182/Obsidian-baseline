@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84a1072a3364e6dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff2b74610606225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecea51f9e6e6a4b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "168dccc80e5ff87e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca6df96cac65196f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "5b4a1873e740041d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4893cc01c6ce99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77de6d0b18768d5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4cd04351351baaf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f7e851d624b42ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ecbc3feda2e3ead5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5b80f2ee3c1834c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-google-tasks:Google Tasks": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ecea51f9e6e6a4b5",
+  "lastOpenFiles": [
+    "Archive",
+    "Resources/Excalidraw/Drawing 2025-06-26 23.43.57.excalidraw.md",
+    "Dashboard.md",
+    "Resources/Templates/Note Properties.md",
+    "Resources/Templates/Dashboard Actions.md",
+    "Notes/Projects/Untitled.md",
+    "Resources/Canvas/Untitled.canvas",
+    "Resources/Excalidraw",
+    "Resources/Ink",
+    "Resources/Canvas",
+    "Areas/Untitled.md",
+    "Notes/Tasks/Untitled 1.md",
+    "Notes/Untitled.md",
+    "Notes/Jots/Untitled 1.md",
+    "Notes/Jots/Untitled.md",
+    "Notes/Projects",
+    "Resources/Templates/Project.md",
+    "Areas/Work.md",
+    "Areas/Software.md",
+    "Areas/Music.md",
+    "Areas/Home.md",
+    "Areas/Cooking.md",
+    "Notes/Calendar/Thursday, Jun 26th.md",
+    "Notes/Typography.md",
+    "README.md",
+    "LICENSE",
+    "Resources/Templates/web-clipper/default-clipper.json",
+    "Resources/Templates/web-clipper/github-clipper.json",
+    "Resources/Images/Banners/woodcuts_15.jpg",
+    "Resources/Images/Icons/Brain.svg",
+    "Resources/Templates/web-clipper",
+    "Resources/Templates/Task.md",
+    "Resources/Templates/Note.md",
+    "Resources/Templates/Note Footer.md",
+    "Resources/Templates/Note Actions.md",
+    "Resources/Templates/Jot.md",
+    "Resources/Templates/Iframe.md",
+    "Resources/Templates/Canvas.canvas",
+    "Resources/Images/Banners",
+    "Resources/Images/Icons"
+  ]
+}

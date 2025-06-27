@@ -1,0 +1,56 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Resources/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Notes",
+      "template": "Resources/Templates/Note.md"
+    },
+    {
+      "folder": "Notes/Jots",
+      "template": "Resources/Templates/Jot.md"
+    },
+    {
+      "folder": "Notes/Tasks",
+      "template": "Resources/Templates/Task.md"
+    },
+    {
+      "folder": "Notes/Calendar",
+      "template": "Resources/Templates/Calendar.md"
+    },
+    {
+      "folder": "Areas",
+      "template": "Resources/Templates/Area.md"
+    },
+    {
+      "folder": "Projects",
+      "template": "Resources/Templates/Project.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

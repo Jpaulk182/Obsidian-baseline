@@ -1,0 +1,19 @@
+{
+  "height": 250,
+  "style": "solid",
+  "showInInternalEmbed": true,
+  "internalEmbedHeight": -5,
+  "showInPreviewEmbed": true,
+  "previewEmbedHeight": null,
+  "frontmatterField": null,
+  "bannerDragModifier": "shift",
+  "iconHorizontalAlignment": "left",
+  "iconHorizontalTransform": null,
+  "iconVerticalAlignment": "above",
+  "iconVerticalTransform": null,
+  "useTwemoji": true,
+  "showPreviewInLocalModal": true,
+  "localSuggestionsLimit": null,
+  "bannersFolder": "Resources/Images",
+  "allowMobileDrag": false
+}
