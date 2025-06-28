@@ -2,13 +2,14 @@
 icon-image: Resources/Images/Icons/Brain.svg
 banner: "![[woodcuts_15.jpg]]"
 banner_y: 0
-cssclasses:
-  - list-cards
+cssclasses: list-cards
 banner-height: 500
 icon-y: -100
 icon-x: 0
+TMP_PATH: "Resources/Templates/Jot.md"
+LOG_PATH: "Resources/Notes/1 - Jots"
 created: 2025-06-25 21:50
-modified: 2025-06-26 23:39
+modified: 2025-06-27 21:14
 ---
 ```meta-bind-embed
 [[Dashboard Actions]]
